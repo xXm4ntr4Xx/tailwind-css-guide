@@ -39,7 +39,7 @@ export default function Home() {
       </div>
 
       <div>
-        <h2 className='text-3xl mt-3'>Hello</h2>
+        <h2 className='relative   items-center justify-center text-3xl mt-3'>Hello</h2>
       </div>
     </div>
   )
